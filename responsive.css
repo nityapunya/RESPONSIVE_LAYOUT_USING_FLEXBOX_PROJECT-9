@@ -32,3 +32,8 @@ section
     padding: 20px;
     margin: 10px;
 }
+aside
+{
+    background-color: #999;
+    color: #fff;
+}
